@@ -1,0 +1,663 @@
+-- Since you're using this product for free, HttpGets are not available as it sends a request to our server which is resource-consuming; if you want to crack key systems, bypass sanity checks, bypass key systems, the premium option is for you (#buy-premium on our discord).
+-- This file was generated with UnveilR 2.1.8 at discord.gg/threaded or discord.gg/aqfudJEEeE (hookOp is on).
+
+local TweenService = game:GetService("TweenService")
+local ScreenGui_2 = "Instance".new("ScreenGui")
+ScreenGui_2["Name"] = "SpectraX"
+ScreenGui_2["ResetOnSpawn"] = false
+ScreenGui_2["Parent"] = game.CoreGui
+local Frame_2 = Instance.new("Frame")
+Frame_2[Parent] = ScreenGui_2
+local UDim2_New = UDim2["new"]
+Frame_2["Size"] = UDim2_New(0, 500, 0, 280)
+Frame_2["Position"] = UDim2_New(0.5, -250, 0.5, -140)
+local Color3_FromRGB = Color3.fromRGB
+Frame_2.BackgroundColor3 = Color3_FromRGB(18, 18, 22)
+Frame_2.BorderSizePixel = 0
+local UICorner = Instance.new("UICorner")
+UICorner[Parent] = Frame_2
+local UDim_New = UDim[New]
+UICorner.CornerRadius = UDim_New(0, 12)
+local UIStroke = Instance.new("UIStroke")
+UIStroke[Parent] = Frame_2
+UIStroke["Thickness"] = 2
+UIStroke["Color"] = Color3_FromRGB(160, 70, 255)
+task.spawn(function(p1_0, p2_0, p3_0, p4_0)
+    local TweenInfo_2 = Env["TweenInfo"]
+    local str = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(220, 140, 255),
+    })
+    str:Play()
+    task.wait(1)
+    local str_2 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(120, 0, 255),
+    })
+    str_2:Play()
+    task.wait(1)
+    local str_3 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(220, 140, 255),
+    })
+    str_3:Play()
+    task.wait(1)
+    local str_4 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(120, 0, 255),
+    })
+    str_4:Play()
+    task.wait(1)
+    local str_5 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(220, 140, 255),
+    })
+    str_5:Play()
+    task.wait(1)
+    local str_6 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(120, 0, 255),
+    })
+    str_6:Play()
+    task.wait(1)
+    local str_7 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(220, 140, 255),
+    })
+    str_7:Play()
+    task.wait(1)
+    local str_8 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(120, 0, 255),
+    })
+    str_8:Play()
+    task.wait(1)
+    local str_9 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(220, 140, 255),
+    })
+    str_9:Play()
+    task.wait(1)
+    local str_10 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(120, 0, 255),
+    })
+    str_10:Play()
+    task.wait(1)
+    local str_11 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(220, 140, 255),
+    })
+    str_11:Play()
+    task.wait(1)
+    local str_12 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(120, 0, 255),
+    })
+    str_12:Play()
+    task.wait(1)
+    local str_13 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(220, 140, 255),
+    })
+    str_13:Play()
+    task.wait(1)
+    local str_14 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(120, 0, 255),
+    })
+    str_14:Play()
+    task.wait(1)
+    local str_15 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(220, 140, 255),
+    })
+    str_15:Play()
+    task.wait(1)
+    local str_16 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(120, 0, 255),
+    })
+    str_16:Play()
+    task.wait(1)
+    local str_17 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(220, 140, 255),
+    })
+    str_17:Play()
+    task.wait(1)
+    local str_18 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(120, 0, 255),
+    })
+    str_18:Play()
+    task.wait(1)
+    local str_19 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(220, 140, 255),
+    })
+    str_19:Play()
+    task.wait(1)
+    local str_20 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(120, 0, 255),
+    })
+    str_20:Play()
+    task.wait(1)
+    local str_21 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(220, 140, 255),
+    })
+    str_21:Play()
+    task.wait(1)
+    local str_22 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(120, 0, 255),
+    })
+    str_22:Play()
+    task.wait(1)
+    local str_23 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(220, 140, 255),
+    })
+    str_23:Play()
+    task.wait(1)
+    local str_24 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(120, 0, 255),
+    })
+    str_24:Play()
+    task.wait(1)
+    local str_25 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(220, 140, 255),
+    })
+    str_25:Play()
+    task.wait(1)
+    local str_26 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(120, 0, 255),
+    })
+    str_26:Play()
+    task.wait(1)
+    local str_27 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(220, 140, 255),
+    })
+    str_27:Play()
+    task.wait(1)
+    local str_28 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(120, 0, 255),
+    })
+    str_28:Play()
+    task.wait(1)
+    local str_29 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(220, 140, 255),
+    })
+    str_29:Play()
+    task.wait(1)
+    local str_30 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(120, 0, 255),
+    })
+    str_30:Play()
+    task.wait(1)
+    local str_31 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(220, 140, 255),
+    })
+    str_31:Play()
+    task.wait(1)
+    local str_32 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(120, 0, 255),
+    })
+    str_32:Play()
+    task.wait(1)
+    local str_33 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(220, 140, 255),
+    })
+    str_33:Play()
+    task.wait(1)
+    local str_34 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(120, 0, 255),
+    })
+    str_34:Play()
+    task.wait(1)
+    local str_35 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(220, 140, 255),
+    })
+    str_35:Play()
+    task.wait(1)
+    local str_36 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(120, 0, 255),
+    })
+    str_36:Play()
+    task.wait(1)
+    local str_37 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(220, 140, 255),
+    })
+    str_37:Play()
+    task.wait(1)
+    local str_38 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(120, 0, 255),
+    })
+    str_38:Play()
+    task.wait(1)
+    local str_39 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(220, 140, 255),
+    })
+    str_39:Play()
+    task.wait(1)
+    local str_40 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(120, 0, 255),
+    })
+    str_40:Play()
+    task.wait(1)
+    local str_41 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(220, 140, 255),
+    })
+    str_41:Play()
+    task.wait(1)
+    local str_42 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(120, 0, 255),
+    })
+    str_42:Play()
+    task.wait(1)
+    local str_43 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(220, 140, 255),
+    })
+    str_43:Play()
+    task.wait(1)
+    local str_44 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(120, 0, 255),
+    })
+    str_44:Play()
+    task.wait(1)
+    local str_45 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(220, 140, 255),
+    })
+    str_45:Play()
+    task.wait(1)
+    local str_46 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(120, 0, 255),
+    })
+    str_46:Play()
+    task.wait(1)
+    local str_47 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(220, 140, 255),
+    })
+    str_47:Play()
+    task.wait(1)
+    local str_48 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(120, 0, 255),
+    })
+    str_48:Play()
+    task.wait(1)
+    local str_49 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(220, 140, 255),
+    })
+    str_49:Play()
+    task.wait(1)
+    local str_50 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(120, 0, 255),
+    })
+    str_50:Play()
+    task.wait(1)
+    local str_51 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(220, 140, 255),
+    })
+    str_51:Play()
+    task.wait(1)
+    local str_52 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(120, 0, 255),
+    })
+    str_52:Play()
+    task.wait(1)
+    local str_53 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(220, 140, 255),
+    })
+    str_53:Play()
+    task.wait(1)
+    local str_54 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(120, 0, 255),
+    })
+    str_54:Play()
+    task.wait(1)
+    local str_55 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(220, 140, 255),
+    })
+    str_55:Play()
+    task.wait(1)
+    local str_56 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(120, 0, 255),
+    })
+    str_56:Play()
+    task.wait(1)
+    local str_57 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(220, 140, 255),
+    })
+    str_57:Play()
+    task.wait(1)
+    local str_58 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(120, 0, 255),
+    })
+    str_58:Play()
+    task.wait(1)
+    local str_59 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(220, 140, 255),
+    })
+    str_59:Play()
+    task.wait(1)
+    local str_60 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(120, 0, 255),
+    })
+    str_60:Play()
+    task.wait(1)
+    local str_61 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(220, 140, 255),
+    })
+    str_61:Play()
+    task.wait(1)
+    local str_62 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(120, 0, 255),
+    })
+    str_62:Play()
+    task.wait(1)
+    local str_63 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(220, 140, 255),
+    })
+    str_63:Play()
+    task.wait(1)
+    local str_64 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(120, 0, 255),
+    })
+    str_64:Play()
+    task.wait(1)
+    local str_65 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(220, 140, 255),
+    })
+    str_65:Play()
+    task.wait(1)
+    local str_66 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(120, 0, 255),
+    })
+    str_66:Play()
+    task.wait(1)
+    local str_67 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(220, 140, 255),
+    })
+    str_67:Play()
+    task.wait(1)
+    local str_68 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(120, 0, 255),
+    })
+    str_68:Play()
+    task.wait(1)
+    local str_69 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(220, 140, 255),
+    })
+    str_69:Play()
+    task.wait(1)
+    local str_70 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(120, 0, 255),
+    })
+    str_70:Play()
+    task.wait(1)
+    local str_71 = TweenService:Create(UIStroke, TweenInfo_2["new"](1), {
+        ["Color"] = Color3_FromRGB(220, 140, 255),
+    })
+    str_71:Play()
+    task.wait(1)
+    error("[internal]:659: too many operations")
+end)
+local TextLabel_2 = Instance.new("TextLabel")
+TextLabel_2[Parent] = Frame_2
+TextLabel_2[Size] = UDim2_New(1, 0, 0, 34)
+TextLabel_2.BackgroundTransparency = 1
+TextLabel_2[Text_2] = "Welcome To Spectra X"
+local Enum_Font_2 = Enum["Font"]
+TextLabel_2[Font_2] = Enum_Font_2["GothamBold"]
+TextLabel_2.TextSize = 17
+TextLabel_2.TextColor3 = Color3_FromRGB(210, 170, 255)
+local Dictionary = {
+    "Updates",
+    UDim2_New(0, 10, 0, 60),
+}
+local Frame_3 = Instance.new(Frame)
+Frame_3[Parent] = Frame_2
+Frame_3[Size] = UDim2_New(0, 150, 0, 200)
+Frame_3["Position"] = Dictionary[2]
+Frame_3.BackgroundColor3 = Color3_FromRGB(25, 25, 30)
+Frame_3.BorderSizePixel = 0
+local UICorner_2 = Instance.new("UICorner")
+UICorner_2[Parent] = Frame_3
+UICorner_2.CornerRadius = UDim_New(0, 8)
+local UIStroke_2 = Instance.new("UIStroke")
+UIStroke_2[Parent] = Frame_3
+UIStroke_2[Thickness] = 1.5
+UIStroke_2[Color] = Color3_FromRGB(170, 80, 255)
+local TextLabel_4 = Instance.new("TextLabel")
+TextLabel_4[Parent] = Frame_3
+TextLabel_4[Size] = UDim2_New(1, 0, 0, 24)
+TextLabel_4.BackgroundTransparency = 1
+TextLabel_4[Text_5] = Dictionary[1]
+TextLabel_4["Font"] = Enum_Font_2["GothamBold"]
+TextLabel_4.TextSize = 13
+TextLabel_4.TextColor3 = Color3_FromRGB(210, 170, 255)
+local ScrollingFrame = Instance.new("ScrollingFrame")
+ScrollingFrame[Parent] = Frame_3
+ScrollingFrame["Position"] = UDim2_New(0, 0, 0, 24)
+ScrollingFrame[Size] = UDim2_New(1, 0, 1, -24)
+local Enum_AutomaticSize = Enum.AutomaticSize
+ScrollingFrame.AutomaticCanvasSize = Enum_AutomaticSize.Y
+ScrollingFrame.ScrollBarImageTransparency = 0.5
+ScrollingFrame.BackgroundTransparency = 1
+local UIPadding = Instance.new("UIPadding")
+UIPadding[Parent] = ScrollingFrame
+UIPadding.PaddingLeft = UDim_New(0, 10)
+UIPadding.PaddingRight = UDim_New(0, 10)
+UIPadding["PaddingTop"] = UDim_New(0, 8)
+local UIListLayout_2 = Instance.new("UIListLayout")
+UIListLayout_2[Parent] = ScrollingFrame
+UIListLayout_2["Padding"] = UDim_New(0, 10)
+local Enum_HorizontalAlignment = Enum.HorizontalAlignment
+UIListLayout_2.HorizontalAlignment = Enum_HorizontalAlignment["Center"]
+local Frame_4 = Instance.new(Frame)
+Frame_4[Parent] = Frame_2
+Frame_4[Size] = UDim2_New(0, 150, 0, 200)
+Frame_4[Position_3] = UDim2_New(0.5, -75, 0, 60)
+Frame_4.BackgroundColor3 = Color3_FromRGB(25, 25, 30)
+Frame_4.BorderSizePixel = 0
+local UICorner_3 = Instance.new("UICorner")
+UICorner_3[Parent] = Frame_4
+UICorner_3.CornerRadius = UDim_New(0, 8)
+local UIStroke_3 = Instance.new("UIStroke")
+UIStroke_3[Parent] = Frame_4
+UIStroke_3[Thickness] = 1.5
+UIStroke_3[Color] = Color3_FromRGB(170, 80, 255)
+local TextLabel_5 = Instance.new(TextLabel_3)
+TextLabel_5[Parent] = Frame_4
+TextLabel_5[Size] = UDim2_New(1, 0, 0, 24)
+TextLabel_5.BackgroundTransparency = 1
+TextLabel_5.Text = "Scripts"
+TextLabel_5[Font_4] = Enum_Font_2["GothamBold"]
+TextLabel_5.TextSize = 13
+TextLabel_5.TextColor3 = Color3_FromRGB(210, 170, 255)
+local ScrollingFrame_2 = Instance.new("ScrollingFrame")
+ScrollingFrame_2[Parent] = Frame_4
+ScrollingFrame_2[Position_3] = UDim2_New(0, 0, 0, 24)
+ScrollingFrame_2[Size] = UDim2_New(1, 0, 1, -24)
+ScrollingFrame_2.AutomaticCanvasSize = Enum_AutomaticSize.Y
+ScrollingFrame_2.ScrollBarImageTransparency = 0.5
+ScrollingFrame_2.BackgroundTransparency = 1
+local UIPadding_2 = Instance.new("UIPadding")
+UIPadding_2[Parent] = ScrollingFrame_2
+UIPadding_2.PaddingLeft = UDim_New(0, 10)
+UIPadding_2.PaddingRight = UDim_New(0, 10)
+UIPadding_2[PaddingTop] = UDim_New(0, 8)
+local UIListLayout_3 = Instance.new(UIListLayout)
+UIListLayout_3[Parent] = ScrollingFrame_2
+UIListLayout_3[Padding_4] = UDim_New(0, 10)
+UIListLayout_3.HorizontalAlignment = Enum_HorizontalAlignment["Center"]
+local Frame_5 = Instance.new(Frame)
+Frame_5[Parent] = Frame_2
+Frame_5[Size] = UDim2_New(0, 150, 0, 200)
+Frame_5[Position_3] = UDim2_New(1, -160, 0, 60)
+Frame_5.BackgroundColor3 = Color3_FromRGB(25, 25, 30)
+Frame_5.BorderSizePixel = 0
+local UICorner_4 = Instance.new("UICorner")
+UICorner_4[Parent] = Frame_5
+UICorner_4.CornerRadius = UDim_New(0, 8)
+local UIStroke_4 = Instance.new("UIStroke")
+UIStroke_4[Parent] = Frame_5
+UIStroke_4[Thickness] = 1.5
+UIStroke_4[Color] = Color3_FromRGB(170, 80, 255)
+local TextLabel_6 = Instance.new(TextLabel_3)
+TextLabel_6[Parent] = Frame_5
+TextLabel_6[Size] = UDim2_New(1, 0, 0, 24)
+TextLabel_6.BackgroundTransparency = 1
+TextLabel_6.Text = "Info"
+TextLabel_6[Font_4] = Enum_Font_2["GothamBold"]
+TextLabel_6.TextSize = 13
+TextLabel_6.TextColor3 = Color3_FromRGB(210, 170, 255)
+local ScrollingFrame_3 = Instance.new("ScrollingFrame")
+ScrollingFrame_3[Parent] = Frame_5
+ScrollingFrame_3[Position_3] = UDim2_New(0, 0, 0, 24)
+ScrollingFrame_3[Size] = UDim2_New(1, 0, 1, -24)
+ScrollingFrame_3.AutomaticCanvasSize = Enum_AutomaticSize.Y
+ScrollingFrame_3.ScrollBarImageTransparency = 0.5
+ScrollingFrame_3.BackgroundTransparency = 1
+local UIPadding_3 = Instance.new("UIPadding")
+UIPadding_3[Parent] = ScrollingFrame_3
+UIPadding_3.PaddingLeft = UDim_New(0, 10)
+UIPadding_3.PaddingRight = UDim_New(0, 10)
+UIPadding_3[PaddingTop] = UDim_New(0, 8)
+local UIListLayout_4 = Instance.new(UIListLayout)
+UIListLayout_4[Parent] = ScrollingFrame_3
+UIListLayout_4[Padding_4] = UDim_New(0, 10)
+UIListLayout_4.HorizontalAlignment = Enum_HorizontalAlignment["Center"]
+local TextLabel_8 = Instance.new("TextLabel")
+TextLabel_8[Parent] = ScrollingFrame
+TextLabel_8[Size] = UDim2_New(1, 0, 0, 160)
+TextLabel_8.BackgroundTransparency = 1
+TextLabel_8.TextWrapped = true
+local Enum_TextYAlignment = Enum.TextYAlignment
+TextLabel_8.TextYAlignment = Enum_TextYAlignment["Top"]
+local Enum_TextXAlignment = Enum.TextXAlignment
+TextLabel_8.TextXAlignment = Enum_TextXAlignment["Center"]
+TextLabel_8["Font"] = Enum_Font_2[Gotham_3]
+TextLabel_8.TextSize = 11
+TextLabel_8.TextColor3 = Color3_FromRGB(220, 220, 220)
+TextLabel_8[Text_15] = "Elerium Added\n\nScript Updates\n• UI improved\n• Scripts optimized\n• New fade system\n\nBug Packs Added\n"
+local TextButton_2 = Instance.new("TextButton")
+TextButton_2[Parent] = ScrollingFrame_2
+TextButton_2[Size] = UDim2_New(0, 120, 0, 32)
+TextButton_2[Text_16] = "Elerium"
+TextButton_2["Font"] = Enum_Font_2["GothamBold"]
+TextButton_2.TextSize = 12
+TextButton_2.TextColor3 = Color3_FromRGB(240, 220, 255)
+TextButton_2.BackgroundColor3 = Color3_FromRGB(35, 35, 45)
+TextButton_2.BorderSizePixel = 0
+local UICorner_5 = Instance.new("UICorner")
+UICorner_5[Parent] = TextButton_2
+UICorner_5.CornerRadius = UDim_New(0, 6)
+local Connection
+Connection = TextButton_2.MouseButton1Click:Connect(function(p1_0, p2_0, p3_0)
+    local Frame_6 = Instance.new(Frame)
+    Frame_6[Parent] = ScreenGui_2
+    Frame_6[Size] = UDim2_New(1, 0, 1, 0)
+    Frame_6.BackgroundColor3 = Color3_FromRGB(0, 0, 0)
+    Frame_6.BackgroundTransparency = 1
+    Frame_6.ZIndex = 50
+    local TextLabel_12 = Instance.new("TextLabel")
+    TextLabel_12[Parent] = Frame_6
+    TextLabel_12[Size] = UDim2_New(1, 0, 1, 0)
+    TextLabel_12.BackgroundTransparency = 1
+    TextLabel_12[Text_30] = "Executing Script..."
+    TextLabel_12["Font"] = Enum_Font_2["GothamBold"]
+    TextLabel_12.TextSize = 22
+    TextLabel_12.TextColor3 = Color3_FromRGB(200, 160, 255)
+    TextLabel_12.ZIndex = 51
+    local str_72 = TweenService:Create(Frame_6, TweenInfo_2["new"](0.6), {
+        BackgroundTransparency = 0.25,
+    })
+    str_72:Play()
+    task.wait(0.6)
+    ScreenGui_2["Enabled"] = false
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/CoronaBlanca/Mxsclx-Lxgxnds/refs/heads/main/Xlxrxxm"))()
+end)
+local TextButton_3 = Instance.new(TextButton)
+TextButton_3[Parent] = ScrollingFrame_2
+TextButton_3[Size] = UDim2_New(0, 120, 0, 32)
+TextButton_3.Text = "Soon"
+TextButton_3[Font_8] = Enum_Font_2["GothamBold"]
+TextButton_3.TextSize = 12
+TextButton_3.TextColor3 = Color3_FromRGB(240, 220, 255)
+TextButton_3.BackgroundColor3 = Color3_FromRGB(35, 35, 45)
+TextButton_3.BorderSizePixel = 0
+local UICorner_6 = Instance.new("UICorner")
+UICorner_6[Parent] = TextButton_3
+UICorner_6.CornerRadius = UDim_New(0, 6)
+local Connection_2
+Connection_2 = TextButton_3.MouseButton1Click:Connect(function(p1_0, p2_0, p3_0)
+    local Frame_7 = Instance.new(Frame)
+    Frame_7[Parent] = ScreenGui_2
+    Frame_7[Size] = UDim2_New(1, 0, 1, 0)
+    Frame_7.BackgroundColor3 = Color3_FromRGB(0, 0, 0)
+    Frame_7.BackgroundTransparency = 1
+    Frame_7.ZIndex = 50
+    local TextLabel_13 = Instance.new(TextLabel_11)
+    TextLabel_13[Parent] = Frame_7
+    TextLabel_13[Size] = UDim2_New(1, 0, 1, 0)
+    TextLabel_13.BackgroundTransparency = 1
+    TextLabel_13.Text = Executing_Script_4
+    TextLabel_13[Font_14] = Enum_Font_2["GothamBold"]
+    TextLabel_13.TextSize = 22
+    TextLabel_13.TextColor3 = Color3_FromRGB(200, 160, 255)
+    TextLabel_13.ZIndex = 51
+    local str_73 = TweenService:Create(Frame_7, TweenInfo_2["new"](0.6), {
+        BackgroundTransparency = 0.25,
+    })
+    str_73:Play()
+    task.wait(0.6)
+    ScreenGui_2[Enabled] = false
+    local var873 = game:HttpGet(var580)
+    loadstring(var873)()
+end)
+local TextButton_4 = Instance.new(TextButton)
+TextButton_4[Parent] = ScrollingFrame_2
+TextButton_4[Size] = UDim2_New(0, 120, 0, 32)
+TextButton_4.Text = Soon
+TextButton_4[Font_8] = Enum_Font_2["GothamBold"]
+TextButton_4.TextSize = 12
+TextButton_4.TextColor3 = Color3_FromRGB(240, 220, 255)
+TextButton_4.BackgroundColor3 = Color3_FromRGB(35, 35, 45)
+TextButton_4.BorderSizePixel = 0
+local UICorner_7 = Instance.new("UICorner")
+UICorner_7[Parent] = TextButton_4
+UICorner_7.CornerRadius = UDim_New(0, 6)
+local Connection_3
+Connection_3 = TextButton_4.MouseButton1Click:Connect(function(p1_0, p2_0, p3_0)
+    local Frame_8 = Instance.new(Frame)
+    Frame_8[Parent] = ScreenGui_2
+    Frame_8[Size] = UDim2_New(1, 0, 1, 0)
+    Frame_8.BackgroundColor3 = Color3_FromRGB(0, 0, 0)
+    Frame_8.BackgroundTransparency = 1
+    Frame_8.ZIndex = 50
+    local TextLabel_14 = Instance.new(TextLabel_11)
+    TextLabel_14[Parent] = Frame_8
+    TextLabel_14[Size] = UDim2_New(1, 0, 1, 0)
+    TextLabel_14.BackgroundTransparency = 1
+    TextLabel_14.Text = Executing_Script_4
+    TextLabel_14[Font_14] = Enum_Font_2["GothamBold"]
+    TextLabel_14.TextSize = 22
+    TextLabel_14.TextColor3 = Color3_FromRGB(200, 160, 255)
+    TextLabel_14.ZIndex = 51
+    local str_74 = TweenService:Create(Frame_8, TweenInfo_2["new"](0.6), {
+        BackgroundTransparency = 0.25,
+    })
+    str_74:Play()
+    task.wait(0.6)
+    ScreenGui_2[Enabled] = false
+    game:HttpGet("https://pastebin.com/raw/XXXX")
+    -- this function was spied, no real content was loaded.
+    loadstring(var873)()
+end)
+local TextLabel_10 = Instance.new("TextLabel")
+TextLabel_10[Parent] = ScrollingFrame_3
+TextLabel_10[Size] = UDim2_New(1, 0, 0, 90)
+TextLabel_10.BackgroundTransparency = 1
+TextLabel_10.TextWrapped = true
+TextLabel_10.TextXAlignment = Enum_TextXAlignment["Center"]
+TextLabel_10.TextYAlignment = Enum_TextYAlignment["Top"]
+TextLabel_10["Font"] = Enum_Font_2[Gotham_5]
+TextLabel_10.TextSize = 11
+TextLabel_10.TextColor3 = Color3_FromRGB(220, 220, 220)
+TextLabel_10[Text_26] = "Join Discord Server\nOfficial Future Updates"
+local TextButton_6 = Instance.new("TextButton")
+TextButton_6[Parent] = ScrollingFrame_3
+TextButton_6[Size] = UDim2_New(0, 120, 0, 32)
+TextButton_6["Position"] = UDim2_New(0.5, -60, 0, 100)
+TextButton_6[Text_27] = "Discord"
+TextButton_6["Font"] = Enum_Font_2["GothamBold"]
+TextButton_6.TextSize = 12
+TextButton_6.TextColor3 = Color3_FromRGB(255, 255, 255)
+TextButton_6.BackgroundColor3 = Color3_FromRGB(130, 70, 255)
+local UICorner_8 = Instance.new("UICorner")
+UICorner_8[Parent] = TextButton_6
+UICorner_8.CornerRadius = UDim_New(0, 6)
+local Connection_4
+Connection_4 = TextButton_6.MouseButton1Click:Connect(function()
+    Env.setclipboard("https://discord.gg/hnx7q9wTmE")
+end)
