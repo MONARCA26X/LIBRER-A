@@ -100,7 +100,7 @@ Label.BackgroundTransparency = 1
 Label.Size = UDim2.new(0, 200, 0, 20)
 Label.Font = Enum.Font.GothamBold
 Label.Text = "Hello, world 123"
-Label.TextColor3 = Color3.new(1, 1, 1)
+Label.TextColor3 = Color3.new(120, 200, 255)
 Label.TextSize = 17
 Label.TextXAlignment = Enum.TextXAlignment.Left
 
@@ -434,7 +434,7 @@ Button.TextXAlignment = Enum.TextXAlignment.Left
 
 TextButton_Roundify_4px_3.Name = "TextButton_Roundify_4px"
 TextButton_Roundify_4px_3.Parent = Button
-TextButton_Roundify_4px_3.BackgroundColor3 = Color3.new(1, 1, 1)
+TextButton_Roundify_4px_3.BackgroundColor3 = Color3.new(120, 200, 255)
 TextButton_Roundify_4px_3.BackgroundTransparency = 1
 TextButton_Roundify_4px_3.Size = UDim2.new(1, 0, 1, 0)
 TextButton_Roundify_4px_3.Image = "rbxassetid://2851929490"
